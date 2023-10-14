@@ -1,0 +1,40 @@
+{
+  "Geografia": {
+    "Geografia Física": [
+      "Climatologia",
+      "Hidrografia",
+      "Relevo",
+      "Biomas Terrestres",
+      "Desastres Naturais",
+      "Climas do Brasil",
+      "Vegetação do Brasil"
+    ],
+    "Geografia Humana": [
+      "Demografia",
+      "Urbanização",
+      "Migrações",
+      "Globalização",
+      "Desenvolvimento Sustentável",
+      "Economia Mundial",
+      "Conflitos Mundiais",
+      "Cultura e Sociedade"
+    ],
+    "Geografia do Brasil": [
+      "Regiões Brasileiras",
+      "Estados e Capitais",
+      "Problemas Sociais",
+      "Indústria e Agricultura",
+      "Agropecuária Brasileira",
+      "Transportes e Logística",
+      "Cidades Brasileiras",
+      "Meio Ambiente no Brasil"
+    ],
+    "Geopolítica": [
+      "Blocos Econômicos",
+      "Conflitos Geopolíticos",
+      "Relações Internacionais",
+      "Organizações Internacionais",
+      "Globalização e Neoliberalismo"
+    ]
+  }
+}

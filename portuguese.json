@@ -1,0 +1,60 @@
+{
+  "Português": {
+    "Gramática": [
+      "Classes de Palavras",
+      "Frase, Oração e Período",
+      "Termos da Oração",
+      "Sintaxe de Concordância",
+      "Sintaxe de Regência",
+      "Sintaxe de Colocação",
+      "Pontuação",
+      "Semântica",
+      "Figuras de Linguagem",
+      "Vozes Verbais",
+      "Período Composto",
+      "Orações Coordenadas e Subordinadas"
+    ],
+    "Literatura": [
+      "Movimentos Literários",
+      "Principais Autores e Obras",
+      "Análise de Obras Literárias",
+      "Gêneros Literários",
+      "Figuras de Estilo",
+      "Escolas Literárias",
+      "Simbolismo",
+      "Realismo e Naturalismo",
+      "Modernismo no Brasil",
+      "Tropicalismo",
+      "Pós-Modernismo"
+    ],
+    "Interpretação de Texto": [
+      "Compreensão de Texto",
+      "Inferência",
+      "Intertextualidade",
+      "Coesão e Coerência",
+      "Tipos de Discurso",
+      "Recursos Argumentativos",
+      "Elementos da Comunicação",
+      "Variedades Linguísticas",
+      "Gêneros Textuais"
+    ],
+    "Redação": [
+      "Estrutura Dissertativa",
+      "Argumentação",
+      "Coerência Textual",
+      "Coesão Textual",
+      "Uso de Elementos de Referência",
+      "Uso de Conectivos",
+      "Estilo e Registro",
+      "Correção Gramatical",
+      "Pontuação"
+    ],
+    "Literatura Estrangeira": [
+      "Principais Obras e Autores",
+      "Contexto Histórico e Cultural",
+      "Estilos Literários",
+      "Movimentos Literários Estrangeiros",
+      "Influências na Literatura Brasileira"
+    ]
+  }
+}

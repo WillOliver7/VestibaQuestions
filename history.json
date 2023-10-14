@@ -1,0 +1,75 @@
+{
+  "História": {
+    "Pré-História": [
+      "Paleolítico",
+      "Neolítico",
+      "Idade dos Metais"
+    ],
+    "Antiguidade": [
+      "Mesopotâmia",
+      "Egito",
+      "Grécia Antiga",
+      "Roma Antiga",
+      "China Antiga",
+      "Índia Antiga",
+      "América Pré-Colombiana"
+    ],
+    "Idade Média": [
+      "Império Bizantino",
+      "Império Islâmico",
+      "Feudalismo",
+      "Cruzadas",
+      "Império Carolíngio"
+    ],
+    "Idade Moderna": [
+      "Renascimento",
+      "Reforma Protestante",
+      "Revolução Científica",
+      "Absolutismo",
+      "Revoluções Burguesas",
+      "Iluminismo",
+      "Revolução Francesa",
+      "Era Napoleônica"
+    ],
+    "Idade Contemporânea": [
+      "Revoluções Liberais",
+      "Revolução Industrial",
+      "Expansão Imperialista",
+      "Primeira Guerra Mundial",
+      "Revolução Russa",
+      "Entreguerras",
+      "Segunda Guerra Mundial",
+      "Guerra Fria",
+      "Descolonização Afro-Asiática",
+      "Globalização"
+    ],
+    "História do Brasil Colonial": [
+      "Descobrimento do Brasil",
+      "Período Pré-Colonial",
+      "Ciclo do Pau-Brasil",
+      "Ciclo da Cana-de-Açúcar",
+      "Ciclo do Ouro",
+      "Inconfidência Mineira",
+      "Período Joanino"
+    ],
+    "História do Brasil Império": [
+      "Independência do Brasil",
+      "Período Regencial",
+      "Segundo Reinado",
+      "Abolição da Escravatura"
+    ],
+    "História do Brasil República": [
+      "República Velha",
+      "Era Vargas",
+      "República Populista",
+      "Ditadura Militar",
+      "Redemocratização"
+    ],
+    "História da África": [
+      "Culturas e Civilizações Africanas",
+      "Colonização Europeia na África",
+      "Descolonização Africana",
+      "Independências e Processos de Unificação"
+    ]
+  }
+}

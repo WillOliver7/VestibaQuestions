@@ -1,0 +1,68 @@
+{
+  "Biologia": {
+    "Citologia": [
+      "Células Procariontes e Eucariontes",
+      "Organelas Celulares",
+      "Ciclo Celular",
+      "Mitose",
+      "Meiose",
+      "Diferenciação e Especialização Celular"
+    ],
+    "Genética": [
+      "Leis de Mendel",
+      "Padrões de Herança",
+      "Herança Ligada ao Sexo",
+      "Mutação Genética",
+      "Engenharia Genética"
+    ],
+    "Ecologia": [
+      "Níveis de Organização Ecológica",
+      "Cadeia Alimentar e Teia Alimentar",
+      "Ciclos Biogeoquímicos",
+      "Relações Ecológicas",
+      "Sucessão Ecológica"
+    ],
+    "Botânica": [
+      "Morfologia Vegetal",
+      "Fisiologia Vegetal",
+      "Reprodução das Plantas",
+      "Ciclo de Vida das Plantas"
+    ],
+    "Zoologia": [
+      "Morfologia Animal",
+      "Fisiologia Animal",
+      "Classificação dos Animais",
+      "Reprodução Animal",
+      "Comportamento Animal"
+    ],
+    "Anatomia e Fisiologia Humana": [
+      "Sistemas do Corpo Humano",
+      "Homeostase",
+      "Nutrição e Digestão",
+      "Respiração e Circulação",
+      "Excreção e Regulação Osmótica",
+      "Sistema Nervoso e Sensorial",
+      "Sistema Endócrino"
+    ],
+    "Taxonomia": [
+      "Classificação dos Seres Vivos",
+      "Nomenclatura Biológica",
+      "Filogenia e Evolução"
+    ],
+    "Microbiologia": [
+      "Bactérias",
+      "Vírus",
+      "Fungos"
+    ],
+    "Imunologia": [
+      "Sistema Imunológico",
+      "Resposta Imune",
+      "Imunização e Vacinas"
+    ],
+    "Biologia Molecular": [
+      "DNA e RNA",
+      "Replicação e Transcrição",
+      "Síntese de Proteínas"
+    ]
+  }
+}

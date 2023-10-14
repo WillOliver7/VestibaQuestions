@@ -1,0 +1,67 @@
+{
+  "Matemática": {
+    "Álgebra": [
+			"Equações de 1º Grau",
+			"Equações de 2º Grau",
+			"Sistemas Lineares",
+			"Inequações",
+			"Funções Lineares",
+			"Funções Quadráticas",
+			"Funções Exponenciais e Logarítmicas",
+			"Funções Trigonométricas",
+			"Funções Polinomiais",
+			"Progressão Aritmética",
+			"Progressão Geométrica",
+			"Operações com Matrizes",
+			"Determinantes",
+			"Sistemas Lineares com Matrizes"
+    ],
+    "Geometria": [
+				"Triângulos",
+				"Quadriláteros",
+				"Polígonos Regulares",
+				"Circunferência e Círculo",
+        "Congruência e Semelhança de Triângulos",
+        "Teorema de Pitágoras",
+        "Teorema de Tales",
+        "Áreas de Figuras Planas",
+        "Prismas, Pirâmides, Cilindros, Cones e Esferas",
+        "Volume de Sólidos Geométricos",
+        "Troncos de Cone e de Pirâmide"
+		],
+    "Trigonometria": [
+      "Razões Trigonométricas no Triângulo Retângulo",
+      "Funções Trigonométricas no Ciclo Trigonométrico",
+      "Identidades Trigonométricas",
+      "Equações Trigonométricas",
+      "Lei dos Senos e Cossenos"
+    ],
+    "Análise Combinatória e Probabilidade": [
+      "Princípio Fundamental da Contagem",
+      "Arranjos, Permutações e Combinações",
+      "Probabilidade",
+      "Eventos Independentes e Dependentes"
+    ],
+    "Estatística e Matemática Financeira": [
+      "Média, Mediana e Moda",
+      "Desvio Padrão e Variância",
+      "Juros Simples e Compostos",
+      "Porcentagem",
+      "Regra de Três Simples e Composta"
+    ],
+    "Geometria Analítica": [
+      "Coordenadas no Plano e no Espaço",
+      "Distância entre Pontos",
+      "Equação da Reta",
+      "Circunferência e Elipse",
+      "Parábola e Hipérbole"
+    ],
+    "Cálculo Diferencial e Integral": [
+			"Regras de Derivação",
+			"Aplicações de Derivadas",
+			"Regras de Integração",
+			"Aplicações de Integrais",
+      "Cálculo de Áreas"
+		]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "Química": {
+    "Matéria e Energia": [
+      "Propriedades da Matéria",
+      "Transformações da Matéria",
+      "Energia e suas Transformações"
+    ],
+    "Estrutura Atômica": [
+      "Modelos Atômicos",
+      "Número Atômico e Número de Massa",
+      "Isótopos e Isóbaros"
+    ],
+    "Tabela Periódica": [
+      "Organização e Classificação",
+      "Propriedades Periódicas",
+      "Propriedades Aperiódicas"
+    ],
+    "Ligações Químicas": [
+      "Ligação Iônica",
+      "Ligação Covalente",
+      "Ligação Metálica"
+    ],
+    "Funções Inorgânicas": [
+      "Ácidos, Bases e Sais",
+      "Óxidos e Hidróxidos",
+      "Óxidos Ácidos e Básicos"
+    ],
+    "Estequiometria": [
+      "Lei da Conservação da Massa",
+      "Lei das Proporções Definidas e Múltiplas",
+      "Cálculos Estequiométricos"
+    ],
+    "Termoquímica": [
+      "Calor de Reação",
+      "Entalpia",
+      "Lei de Hess"
+    ],
+    "Cinética Química": [
+      "Fatores que Influenciam a Velocidade das Reações",
+      "Lei da Velocidade",
+      "Mecanismos de Reação"
+    ],
+    "Equilíbrio Químico": [
+      "Princípio de Le Chatelier",
+      "Constante de Equilíbrio",
+      "Deslocamento de Equilíbrio"
+    ],
+    "Físico-Química": [
+      "Colóides",
+      "Soluções",
+      "Propriedades Coligativas"
+    ],
+    "Química Orgânica": [
+      "Hidrocarbonetos",
+      "Funções Orgânicas",
+      "Isomeria"
+    ],
+    "Bioquímica": [
+      "Carboidratos",
+      "Lipídios",
+      "Proteínas"
+    ]
+  }
+}

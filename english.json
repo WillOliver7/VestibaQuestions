@@ -1,0 +1,62 @@
+{
+  "Inglês": {
+    "Gramática": [
+      "Tempos Verbais",
+      "Verbos Modais",
+      "Voz Passiva",
+      "Condicional",
+      "Frases Relativas",
+      "Discurso Direto e Indireto",
+      "Verbos Frasais",
+      "Gerúndios e Infinitivos",
+      "Artigos",
+      "Preposições",
+      "Conjunções",
+      "Pronomes",
+      "Adjetivos e Advérbios"
+    ],
+    "Vocabulário": [
+      "Palavras e Frases Comuns",
+      "Sinônimos e Antônimos",
+      "Idiomas",
+      "Colocações",
+      "Formação de Palavras",
+      "Prefixos e Sufixos",
+      "Palavras Confusas",
+      "Vocabulário Acadêmico",
+      "Vocabulário de Negócios",
+      "Vocabulário Técnico"
+    ],
+    "Compreensão de Leitura": [
+      "Ideias Principais e Detalhes",
+      "Inferência",
+      "Propósito e Tom",
+      "Perspectiva do Autor",
+      "Vocabulário no Contexto",
+      "Raciocínio Crítico",
+      "Comparação e Contraste"
+    ],
+    "Escrita": [
+      "Redação",
+      "Cartas Formais e Informais",
+      "Relatórios",
+      "Resumos",
+      "Escrita Criativa",
+      "Escrita Argumentativa",
+      "Escrita Descritiva",
+      "Escrita Narrativa",
+      "Escrita Acadêmica",
+      "Escrita de Negócios"
+    ],
+    "Compreensão Auditiva": [
+      "Conversas Curtas",
+      "Conversas Longas",
+      "Palestras",
+      "Entrevistas",
+      "Podcasts",
+      "Noticiários",
+      "Músicas e Letras",
+      "Trechos de Filmes e Séries"
+    ]
+  }
+}

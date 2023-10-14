@@ -1,0 +1,42 @@
+{
+	"Física": {
+		"Cinemática": [
+			"Movimento Uniforme",
+			"Movimento Uniformemente Variado (MUV)",
+			"Lançamento Vertical",
+			"Movimento Circular Uniforme (MCU)"
+		],
+		"Dinâmica": [
+			"Leis de Newton",
+			"Força Peso",
+			"Força de Atrito",
+			"Força Normal",
+			"Força de Tração",
+			"Plano Inclinado"
+		],
+		"Energia": [
+			"Energia Cinética",
+			"Energia Potencial Gravitacional",
+			"Trabalho",
+			"Teorema da Energia Cinética",
+			"Conservação de Energia Mecânica"
+		],
+		"Gravitação Universal": [
+			"Lei da Gravitação Universal",
+			"Campo Gravitacional",
+			"Peso e Massa"
+		],
+		"Termologia": [
+			"Escalas Termométricas",
+			"Dilatação Térmica",
+			"Calorimetria",
+			"Transferência de Calor"
+		],
+		"Óptica": [
+			"Reflexão da Luz",
+			"Refração da Luz",
+			"Lentes Esféricas",
+			"Espelhos"
+		]
+	}
+}
